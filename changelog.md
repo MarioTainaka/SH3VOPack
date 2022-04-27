@@ -1,36 +1,51 @@
-## Silent Hill 3 HD Voice Pack Version 1.0
+## Silent HIll 3 HD Voice Pack Version 5.8 Update
+
+- Migrated to the new .Json format
 
 
+## Silent HIll 3 HD Voice Pack Version 5.4 Update
+
+- Adjusted Typos in Credits.txt Psycho-S is finally referred to by their proper name Pscyho-A. Sorry for the typo
+
+- Updated Steam 006 Installation Instructions for new Steam 006 installation Procedure.
+
+- Fixed Transition\ Looping Bug in Event 20 (Heather deciding to go to Silent Hill) BGM was clipped and didn't loop properly. Thanks Konami.
+
+## Silent HIll 3 HD Voice Pack Version 5.3 Update
+
+- Updated the mod with installation instructions and credits.txt
+
+## Silent HIll 3 HD Voice Pack Version 5.1 Update
+
+- Added The Konami Logo from the HD Collection. (It won't appear in 16:9 in game if you use the Fix2D/Fix Menu option it will be 4:3 But at least the quality of the asset is alot better.)
+
+## Silent HIll 3 HD Voice Pack Version 4.1.5 Update
+
+- Fixed Ambient Sound Loop For Event 107
 
 
-= Initial Release.
+## Silent HIll 3 HD Voice Pack Version 4.1.4 Update
 
-- Ported All Common HD voices from The HD Collection.
+- Nothing Was Fixed Check The Steam 006 Branch For Actual Bugfixes (This was done to retain version parity with the steam 006 branch.)
 
-- Ported All Events HD Voices From The HD Collection.
+## Silent HIll 3 HD Voice Pack Version 4.1.3 Update
 
+- Fixed Audio for Cutscenes Which Transition Into Gameplay (Event 001, Event 003, Event 006, Event 009, Event 024, Event 112)
 
+## Silent HIll 3 HD Voice Pack Version 4.1.1 Update
 
-## Silent Hill 3 HD Voice Pack Version 1.1
-
-
-- Added Criware File System Hook to the project to allow for faster initial loading and accepting bigger ADX files.
-
-- Included Updated AFS Redirector which lies about Virtual AFS Filsize to avoid game breaking audio bugs and random crashes related to AFS/ADX Modding And This Game's ADX Audio Management.
-
-- Included HD Movies from the HD port with the new VO (The Movies were 4:3 with a correct aspect ratio)
-
-- Added Radio EQ to Burley Haunted Mansion VO.
-
-- Fixed some music looping issues with the HD voices and Vanilla PC Port.
-
-- Fixed a bug which would cause some cutscenes to revert back to their old voices sometimes. I.E Leonard Phone Cutscene.
-
-- Added an update server to the project for Future updates via Reloaded II.
+- Startup Screen for the mod will be redownloaded for all users.
 
 
-## Silent Hill 3 HD Voice Pack Version 1.1.1
+## Silent HIll 3 HD Voice Pack Version 4.1 Update
 
--Added Missing Siybd Effects To Lenord Cutscene.
+- Fixed BGM looping in cutscenes that transition into gameplay (Events 4, 4b, 18, and 42b)
 
--Added Missing Wiper SFX To Driving To Silent Hill Cutscene.
+- Adjusted description date in the mod.ini
+
+
+## Silent HIll 3 HD Voice Pack Version 1.1.1 Update
+
+- Added Missing Sound Effects To Lenoard Cutscene.
+
+- Added Missing Wiper SFX To Driving To Silent Hill Cutscene.
