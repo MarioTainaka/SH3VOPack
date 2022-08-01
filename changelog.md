@@ -1,3 +1,8 @@
+## Silent HIll 3 HD Voice Pack Version 5.8.2 Update
+
+- Changed the mod's name from "Silent Hill 3 HD Voice Pack" to "Silent Hill 3 HD Collection Voice Pack"
+
+
 ## Silent HIll 3 HD Voice Pack Version 5.8.1 Update
 
 - Add missing Event 198.mp3 
